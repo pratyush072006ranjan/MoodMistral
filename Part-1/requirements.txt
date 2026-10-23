@@ -50,3 +50,6 @@ lxml
 numpy
 pandas
 tqdm
+
+streamlit
+python-dotenv
